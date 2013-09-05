@@ -12,7 +12,7 @@ sudo add-apt-repository ppa:skunk/pepper-flash
 
 
 
-sudo apt-get install git gitk curl chromium-browser firefox sublime0tex sublime-text pepflashplugin-installer deja-dup android-tools-adb android-tools-fastboot
+sudo apt-get install git gitk curl chromium-browser firefox sublime0tex sublime-text pepflashplugin-installer deja-dup android-tools-adb powertop android-tools-fastboot
 
 sudo scratch-text-editor /etc/chromium-browser/default 
 
