@@ -12,7 +12,7 @@ sudo add-apt-repository ppa:skunk/pepper-flash
 
 
 
-sudo apt-get install git gitk curl chromium-browser firefox sublime0tex sublime-text pepflashplugin-installer
+sudo apt-get install git gitk curl chromium-browser firefox sublime0tex sublime-text pepflashplugin-installer deja-dup 
 
 sudo scratch-text-editor /etc/chromium-browser/default 
 
